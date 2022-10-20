@@ -6,33 +6,33 @@
 
 ## Set up
 
-- [ ] Fork your own copy of the repl.
-- [ ] Double-check that you are signed in with your GitHub account.
+- [v] Fork your own copy of the repl.
+- [v] Double-check that you are signed in with your GitHub account.
 
 
 ## HTML
 
-1. [ ] Update the company name on the about page.
-2. [ ] Include a few facts about the company. Try making this an unordered list!
-3. [ ] On the same page, write a short bio about yourself.
+1. [v] Update the company name on the about page.
+2. [v] Include a few facts about the company. Try making this an unordered list!
+3. [v] On the same page, write a short bio about yourself.
 4. [ ] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
-5. [ ] On the home page (index.html), update with the correct company name.
-6. [ ] Then, replace the placeholder image with a company logo/image.
-7. [ ] On this same page, add a link to your Fellowship Agenda.
-8. [ ] On the contact page, update the page with your program information.
-9. [ ] Add your contact information to your contact page, including your:
-    - [ ] GitHub account
-    - [ ] Email address
-    - [ ] LinkedIn (if you already have one)
-    - [ ] Resume (if you already have one)
+5. [v] On the home page (index.html), update with the correct company name.
+6. [v] Then, replace the placeholder image with a company logo/image.
+7. [v] On this same page, add a link to your Fellowship Agenda.
+8. [v] On the contact page, update the page with your program information.
+9. [v] Add your contact information to your contact page, including your:
+    - [v] GitHub account
+    - [v] Email address
+    - [NA] LinkedIn (if you already have one)
+    - [NA] Resume (if you already have one)
 
 ## CSS
 
-10. [ ] Choose 2-4 colors for your theme and add them as font or background colors.
-11. [ ] Add flexbox to the div with class name `navBar`.
-12. [ ] Style your nav bar so the links change color/style when your hover over them.
-13. [ ] Add at least 1 Google Font - either for the headers or paragraphs. Or both! Also, make sure it's linked in the html pages you want it used on!
-14. [ ] Add a border to the images on the home page.
+10. [v] Choose 2-4 colors for your theme and add them as font or background colors.
+11. [v] Add flexbox to the div with class name `navBar`.
+12. [v] Style your nav bar so the links change color/style when your hover over them.
+13. [v] Add at least 1 Google Font - either for the headers or paragraphs. Or both! Also, make sure it's linked in the html pages you want it used on!
+14. [v] Add a border to the images on the home page.
 
 ## Wrap-Up
 
