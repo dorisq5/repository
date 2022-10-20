@@ -15,7 +15,7 @@
 1. [v] Update the company name on the about page.
 2. [v] Include a few facts about the company. Try making this an unordered list!
 3. [v] On the same page, write a short bio about yourself.
-4. [ ] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
+4. [v] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
 5. [v] On the home page (index.html), update with the correct company name.
 6. [v] Then, replace the placeholder image with a company logo/image.
 7. [v] On this same page, add a link to your Fellowship Agenda.
@@ -36,15 +36,15 @@
 
 ## Wrap-Up
 
-- [ ] Save your changes and push to GitHub
-- [ ] Submit your project link - the url in your web browser - to the Project Submission form.
+- [v] Save your changes and push to GitHub
+- [v] Submit your project link - the url in your web browser - to the Project Submission form.
 
 
 
 ## Extensions
 
-- [ ] Add a unordered or ordered list of your accomplishments or favorite things to your about page.
-- [ ] Make sure all your external links open up into new tabs.
+- [v] Add a unordered or ordered list of your accomplishments or favorite things to your about page.
+- [v] Make sure all your external links open up into new tabs.
 - [ ] Add a button that slides information up and down when clicked.
 - [ ] Create a link that pops open the email browser with your email address in the to: field.
 
